@@ -3,6 +3,7 @@
 
 ### BOM
 |Обозначение|Значение|Кол-во|
+|-|-|-|
 |C1, C2|.1u 0805|2|
 |J1|PinHeader_2x20_P2.54mm_Vertical|1|
 |J2|PinSocket_1x18_P2.54mm_Horizontal|1|
