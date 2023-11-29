@@ -1,6 +1,7 @@
 *.zip
 *.txt
+*.xml
 *.kicad*
-micro-kim
-micro-kim-backups
+micro-kim-iot
+micro-kim-iot-backups
 fp-info-cache
